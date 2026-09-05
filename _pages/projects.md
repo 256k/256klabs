@@ -4,16 +4,14 @@ title: projects
 permalink: /projects
 ---
 
-[December Adventures](/DecAdv)
+### - [December Adventures](/DecAdv)
+
 A yearly community activity of being a little bit creative each day of December and sharing your daily updated and achievements with the community through a handwritten static html page.
 
 Excerpt from the original blog post:
 
-```
-The December Adventure is low key. The goal is to write a little bit of code every day in December.
 
-…doesn’t even really have to be code! Let the December Adventure be for all kinds of creative pursuits.
-```
+"The December Adventure is low key. The goal is to write a little bit of code every day in December. …doesn’t even really have to be code! Let the December Adventure be for all kinds of creative pursuits."
 - [Eli's Oatmeal blog](https://eli.li/december-adventure)
 
 ---
