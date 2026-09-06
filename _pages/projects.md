@@ -4,7 +4,7 @@ title: projects
 permalink: /projects
 ---
 
-### - [December Adventures](/DecAdv)
+### - [December Adventures](/decadv)
 
 A yearly community activity of being a little bit creative each day of December and sharing your daily updated and achievements with the community through a handwritten static html page.
 
